@@ -23,7 +23,7 @@ avqvwvww
 FSBFBsdfb
 
 3. ### Ask Questions
-    1. Which ethnic group in Hawaii received the most transplants in 2022? Is this proportional to the state’s 2022 population demographics? And is this proportional to the ethnic group that receives the most transplants in the United States?
+    1. Which ethnic group in Hawaii received the most transplants in 2021? Is this proportional to Hawaii’s 2021 population demographics? 
     2. From 1988 to present, has the ethnic group that receives the most transplants each year in Hawaii changed over time? If so, in what year(s) was it different than the group found in question #1?
     3.  Which disease has led to the most transplants in Hawaii, from 1988-present?
     4. What is the breakdown of the most common diagnosis by ethnic group in Hawaii, from 1988-present, that results in requiring an organ transplant? 
@@ -36,7 +36,7 @@ ewv
 ## Data Analysis 
 I analayzed my data in order of questions. 
 
-1. ### Which ethnic group in Hawaii received the most transplants in 2021? Is this proportional to Hawaii’s 2021 population demographics? And is this proportional to the ethnic group that receives the most transplants in the United States?
+1. ### Which ethnic group in Hawaii received the most transplants in 2021? Is this proportional to Hawaii’s 2021 population demographics? 
 * First, I looked at the "HI Transplants/Ethnicity" sheet. 
 * Then, I created a pivot table that summed up the total number of organ transplants for each ethnic group in 2021.
 * To create the pivot table I input the ethnicities from Column A as the rows and sorted by SUM of 2021 in descending order. Next I input the values to be 2021, sumarized by SUM. To ensure I was only looking at necessary data, I filtered out both blank cells and "All ethnicities" as I only needed the individual breakdowns of each ethnicity.
