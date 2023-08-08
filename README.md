@@ -50,10 +50,10 @@ _IMAGE 2_
 
 * To analyze this data, I looked at row 6, "Asian alone," which states in 2021, of the 1,441,553 people in Hawaii 536,161 were Asian.
 * To see if the amount of organ transplants on Asian patients is proportional to Hawaii's percetage of Asians in the state, I compared the percentage of Asian transplant recipients in Hawaii to Hawaii's percentage of Asian residents. To do this, I first found the percentage of organ transpalants on Asian patients in 2021, which is:
-    * (35/64)(100) = 54.68% 
+    * (35/64)(100) = **54.68% organ transplants on Asian patients**
  
 * Then I found the percentage of Asian residents in Hawaii in 2021, which is:
-    * (536,161/1,441,553)(100) = 37.19%
+    * (536,161/1,441,553)(100) = **37.19% of Asian residents in Hawaii**
  
 * This means that in 2021, the percentage of Asian patients who received organ transplants in Hawaii in 2021 was _**not proportional**_ to the number of Asian residents in Hawaii in 2021 as the percentage of Asian organ donations is much larger than the percentage of Asian residents in Hawaii. 
 
