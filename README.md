@@ -39,7 +39,7 @@ I analayzed my data in order of questions.
 1. ### Which ethnic group in Hawaii received the most transplants in 2022? Is this proportional to the state’s 2022 population demographics? And is this proportional to the ethnic group that receives the most transplants in the United States?
     1. First, I looked at the "HI Transplants/Ethnicity" sheet. 
     2. Then, I created a pivot table that summed up the total number of organ transplants for each ethnic group in 2022.
-    3. To create the pivot table I input the ethnicities from Column A as the rows and sorted by SUM of 2022 in descending order. Next I input the values to be 2022, sumarized by SUM. To ensure I was only looking a necessary data, I filtered out both blank cells and "All ethnicities" as I only needed the individual breakdowns of each ethnicity.
+    3. To create the pivot table I input the ethnicities from Column A as the rows and sorted by SUM of 2022 in descending order. Next I input the values to be 2022, sumarized by SUM. To ensure I was only looking at necessary data, I filtered out both blank cells and "All ethnicities" as I only needed the individual breakdowns of each ethnicity.
 
     4. 
     5. ef
