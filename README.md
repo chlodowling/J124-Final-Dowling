@@ -18,15 +18,15 @@ WEDNESDAY
     * I discovered Arellano's kidney transplant story from [this Star Advertiser article](https://www.staradvertiser.com/2022/12/28/hawaii-news/former-chef-known-for-generosity-gets-a-life-changing-gift/) and found his contact information accordingly. 
 
 ### Two Additional Sources
-* [US Transplants, From 1988-2023, Categorized by Racial Group and Ethnicity](https://github.com/chlodowling/J124-Final-Dowling/blob/2ac87d00a877bc7f5b21496789ab4e409efe91ae/National%20data%20-%20OPTN.pdf)
-    * This dataset comes from an advanced search, of organ donations in the US categorized by ethniciy, on [UNOS' database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#).
+* [US Organ Transplants, Categorized by Racial Group and Ethnicity](https://github.com/chlodowling/J124-Final-Dowling/blob/f0c9dd738012a4b7049db495049c6a7f330a6d18/National%20Data%20-%20Transplant%20by%20Race%20%26%20Ethnicity%20-%20OPTN.pdf)
+    * This dataset comes from an advanced search, of organ transplants in the US categorized by ethniciy, on [UNOS' database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#).
     * This dataset provides national data on organ transplants categroized by ethicity and race and the information can be used to compare Hawaii's organ transplant data to national data. This contributes to the reporting by putting into perspective the accessibility of organ transplants in the rest of the country, in comparisson to Hawaii. 
-    * The dataset has been added to the repository, visible above. 
-* Tell me what the source is
-    * why you want to use it
-    * how it contributes to the reporting
-    * hyperlink to it/download the file
-    * This article has been added to the repository, seen above. 
+    * The dataset has been added to the repository, visible above.
+ 
+* [US Kidney Transplants, Categoirized by Sate](https://github.com/chlodowling/J124-Final-Dowling/blob/f0c9dd738012a4b7049db495049c6a7f330a6d18/National%20Data%20-%20Kidney%20Transplants%20by%20State%20-%20OPTN.pdf)
+    * This dataset comes from an advanced search, of specifically kidney transplants in the US categorized by state, on [UNOS' database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#).
+    * If Milton Arellano, mentioned above, was interviewed for his story, this dataset would provide context as to how many kidney transplants occur in Hawaii versus California. This contribues to the reporting by looking at how the frequency of organ transplants vary by state. It is important to note that his additional dataset would _simply provide information on the frequency of kidney transplants, not conclusions that a patient is more likely to receive a kidney in one state over another_. Drawing that conclusion would disregard factors such as population size and the number organ ransplant sites.  
+    * This dataset has been added to the repository, visible above. 
 
 ## Preparing For Data Analysis  
 
