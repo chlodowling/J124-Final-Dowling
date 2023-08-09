@@ -31,11 +31,11 @@ WEDNESDAY
 ## Preparing For Data Analysis  
 
 1. ### Source Data
-    1. The first step of my data analysis was to find data to analyze. In this project, I analyzed “Organ Transplants in Hawaii, Categorized by Ethnicity and Race” sourced from the United Network for Organ Sharing (UNOS). When looking for organ transplant data through UNOS, I was taken to an online database that is through the Organ Procurement and Transplant Network (OPTN). From [OPTN's database](https://optn.transplant.hrsa.gov/data/) I was able to conduct an advanced search to get a series of data tables highlighting organ tranplants in Hawaii per year, organ transplants in Hawaii per year categorized by race and ethicity, and national organ transplant data. 
-    2. Once I gathered the data from OPTN, I copied the data over to the "J124 Final: Organ Transplants Hawaii.csv" to analyze. I copied each dataset onto its own sheet, as seen in the .csv file. 
+    1. The first step of preparing for data analysis was to find data to analyze. In this project, I analyzed “Organ Transplants in Hawaii, Categorized by Ethnicity and Race” sourced from the United Network for Organ Sharing (UNOS). When looking for organ transplant data through UNOS, I was taken to an online database that is through the Organ Procurement and Transplant Network (OPTN). From [OPTN's database](https://optn.transplant.hrsa.gov/data/) I was able to conduct an advanced search to get a series of data tables highlighting organ tranplants in Hawaii per year, organ transplants in Hawaii per year categorized by race and ethicity, and national organ transplant data. 
+    2. Once I gathered the datasets from OPTN, I copied them over to the "J124 Final: Organ Transplants Hawaii.csv" to analyze. I copied each dataset onto its own sheet, as seen in the .csv file. 
 
 2. ### Clean Data 
-    1. The second step of my analysis was to clean the data. After copying the data from OPTn to google sheets, the data did not require much refining as it was organized by OPTN. However, I did have to delete a blank column that appeared each time when copying the data over from OPTN to google sheets. I was able to refine my searches so specifically during the data sourcing process that the data cleaning process only consisted of formating the sourced data on the google sheet.  
+    1. The second step of preparing for data analysis was to clean the data. After copying the data from OPTn to google sheets, the data did not require much refining as it was organized by OPTN. However, I did have to delete a blank column that appeared each time when copying the data over from OPTN to google sheets. I was able to refine my searches so specifically during the data sourcing process that the data cleaning process only consisted of formating the sourced data on the google sheet.  
 
 3. ### Ask Questions
     1. Which racial or ethnic group in Hawaii received the most transplants in 2021? Is this proportional to Hawaii’s 2021 population demographics? 
@@ -44,10 +44,13 @@ WEDNESDAY
     4. What is the breakdown of the most common diagnosis by racial or ethnic group in Hawaii, from 1988-present, that results in requiring an organ transplant? 
     5. Is there one disease that has impacted individuals from all 8 racial or ethnic groups in Hawaii, resulting in an organ transplant? Is this in line with the United State’s most common diagnosis that results in requiring an organ transplant?
   
-*The five questions above will be used as the structure for the "Data Analysis" process documented below.*
+*The third step of preparing for data analysis was to develop questions, as seen above, that would guide the data analysis process. The five questions above will be used as the structure for the "Data Analysis" process documented below.*
 
    
 4. ### Define Key Assumptions
+
+The final step before starting data analysis was to establish key assumptions that would remain true for the entirety of the data analysis process. The key assumptions go as follows:
+
 * All questions were answered using the data set "J124 Final: Organ Transplants Hawaii.csv" mentioned above.
 * For the purpose of this study, organ transplant refers to all types of organ transplants as this study does _not_ categorize the organ transplant data into organ transplant type such as liver, heart, or lung transplant. 
 * For all five questions, the datasets referenced come from OTPN and one dataset comes from the US Census. 
