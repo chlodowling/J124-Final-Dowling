@@ -101,17 +101,24 @@ As such, the data analysis for question 2 reveals that over time, Asian patients
 
 IMAGE 1
 
-From this dataset above, it is apparent that since 1988 Glomerular Disease is the diagnosis that has led to the most organ transplants in Hawaii, causing 544 transplants. Diabetes is the second most disase causing organ transplants. Non-Cholestatic Cirrhosis is the third most disease casuing organ transplants. 
+From this dataset above, it is apparent that since 1988, _**Glomerular Disease is the diagnosis that has led to the most organ transplants in Hawaii, causing 544 transplants.**_ Diabetes is the second most disase causing organ transplants. Non-Cholestatic Cirrhosis is the third most disease casuing organ transplants. 
 
-### Question 4: Since 1988, what has been the most common diagnosis that results in an organ transplant for each racial or ethnic group in Hawaii? 
+### Question 4: Since 1988, what has been the most common diagnosis, that results in an organ transplant, for each racial or ethnic group in Hawaii? 
 1. I created a pivot table, seen on the "Most Common Diagnosis by Race" sheet, in orrder to answer this question. To create the table, I used the data on the "HI Transplant/Ethnicity/Diagnosis" sheet. 
 2. For the rows of the pivot table, I input "Race/Ethnicity" and "Diagnosis," both sorted by "MAX of To Date" in descending order. For the vlaues, I input "To Date" as this column represents the total number of organ transplants in Hawaii since 1988 until 2023. The "To Date" values are summarized by "MAX." I applied two filters to this pivot table, the first being to "Diagnosis" where I deselected "any blanks" and "All Diagnoses" as I needed the individual organ transplant breakdowns as a result of each diagnosis, not all of the diagnoses combined. The second filter was applied to "Race/Ethnicity" where I deselected "All Ethnicities" as I needed to look at the individual race/ethnicity breakdowns, not all of the races/etthnicties combined. I was then able to analyze this pivot table:
 
 IMAGE 1-4 
 
-By looking at the pivot table, it  
+By looking at the pivot table, it is apparent that since 1988 the most common diagnosis, that results in an organ transplant, for each racial or ethnic group in Hawaii is:
+* **Asian, Non-Hispanic: Glomerular Disease** causing 323 organ transplants
+* **Pacific Islander, Non-Hispanic: Glomerular Disease** causing 127 organ transplants
+* **White, Non-Hispanic: Non-Cholestatic Cirrhosis** causing 84 organ transplants
+* **Multiracial, Non-Hispanic: Diabetes** causing 58 organ transplants
+* **Hispanic/Latino: Glomerular Disease** causing 21 organ transplants
+* **Black: Glomerular Disease** causing 6 organ transplants
+* **American Indian/Alaska Native, Non-Hispanic: Glomerular Disease** causing 1 organ transplant
 
-### Question 5: Is there one disease that has impacted individuals from all 8 racial or ethnic groups in Hawaii, resulting in an organ transplant? Is this in line with the United State’s most common diagnosis that results in requiring an organ transplant?
+### Question 5: Is there one disease that has impacted individuals from all seven listed racial or ethnic groups in Hawaii, resulting in an organ transplant? If so, is this in line with the United State’s most common diagnosis that results in requiring an organ transplant?
 1. TODAY
 2. qefv
 3. qerg
