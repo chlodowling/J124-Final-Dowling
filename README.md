@@ -79,16 +79,16 @@ This means that in 2021, the percentage of Asian patients who received organ tra
 ### Question 2: From 1988 to present, has the racial or ethnic group that receives the most transplants each year in Hawaii changed over time? If so, in what year(s) was it different than the group found in question #1?
 1. First, I created a pivot table, selecting "Race/Ethnicity" as the rows, sorting by "Race/Ethnicity" in ascending order. 
 2. Next, I added a filter to not include "All Ethnicities" and any blanks in the pivot table, as I need to see the number of organ transplants each racial and ethnic group received each year. 
-3. After this, I then input each year from 1988 to present as the values shown as columns and sumarized by MAX.
+3. After this, I then input each year from 1988 to present as the values, shown as columns and sumarized by MAX.
 4. I then froze column 1 so I could always see the racial or ethnic group.
 5. I got this pivot table:
 
-**IMAGE 1**
+**IMAGE 1-4**
 
 6. I then compared each year's grand total, which displays the number of transplants from the racial or ethnic group with the most amount of transplants, to the number of "Asian, Non-Hispanic" transplants that occured the same year. As  "Asian, Non-Hispanic" is the racial group that received the most transplants in 2021, found in question 1, I simply looked at this group in comparisson to the total to see if the numbers were the same in both cells.
 7. After doing this, I was able to determine that the racial or ethnic group that has received he most transplants each year has stayed consistent for all but one year. In 1991, as seen in column E, the grand total did not match with the "Asian, Non-Hispanic" row. Thus the racial group that recevied the most amounnt of transplants in 1991 was "Pacific Islander, Non-Hispanic." In 1991, 13 Pacific Islander patients had an organ transplant, in Hawaii, in comparisson to the 11 Asian paients who had an organ transplant. From 1988 until the present, except for 1991, the racial group that recevied the most amounnt of transplants was "Asian, Non-Hispanic."
 
-**IMAGE 2**
+**IMAGE 5**
 
 As such, the data analysis for question 2 reveals that over time, Asian patients have received the most organ transplants each year in Hawaii, except in 1991 when 13 Pacific Islander patients had organ transplants and 10 Asian paients had organ transplants. Thus, the racial group that receives the most transplants each year in Hawaii _**has stayed consistent with Asian patients receiving the most in all but one year in 1991.**_
 
