@@ -1,6 +1,5 @@
-# An Analysis of Organ Transplants in Hawaii by Racial/Ethnic Group 
+# An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups
 ### By Chloe Dowling
-description 
 Accessibility of organ transplants?
 
 ## Story Summary 
