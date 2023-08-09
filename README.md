@@ -32,12 +32,14 @@ Mention what UNOS stands for
 ## Preparing For Data Analysis  
 
 1. ### Source Data
-    1. TODAY
+    1. In this project, I analyzed “California Kindergarten Immunization Rates” sourced from the California Department of Public Health. My analysis focuses on kindergarten immunization statistics from 2000 to 2015.
+    2. 
 
 2. ### Clean Data 
-    1. TODAY
+    1. The first step of my analysis was to clean the data. After inspection, the data did not require much refining as it was mostly normalized. Because my scope of analysis did not require school names and this column of data exhibited significant inconsistencies, I created a new spreadsheet without it for my analysis. I also introduced five new variables: 1) pMMR, 2) pDTP, 3) pPolio, 4) pPBE, and 5) pPME. Details on column headers can be found here.
 
 3. ### Ask Questions
+description
     1. Which racial or ethnic group in Hawaii received the most transplants in 2021? Is this proportional to Hawaii’s 2021 population demographics? 
     2. From 1988 to present, has the racial or ethnic group that receives the most transplants each year in Hawaii changed over time? If so, in what year(s) was it different than the group found in question #1?
     3. Which disease has led to the most transplants in Hawaii, from 1988-present?
@@ -45,8 +47,10 @@ Mention what UNOS stands for
     5. Is there one disease that has impacted individuals from all 8 racial or ethnic groups in Hawaii, resulting in an organ transplant? Is this in line with the United State’s most common diagnosis that results in requiring an organ transplant?
 
    
-4. ### Define Key Assumptions
-    1. TODAY
+5. ### Define Key Assumptions
+* All questions were answered solely using the data set mentioned above.
+* Vaccination rate is defined as the percentage of students vaccinated for each respective vaccine type from the total number of students in the school type, county, or year specified in the question.
+* Exemption rate is defined as the percentage of students with an exemption (PBE or PME) from the total number of students in the school type, county, or year specified in the question.
 
 ## Data Analysis 
 _The following are five questions relevant to the dataset along with step-by-step answers to each of the questions:_ 
