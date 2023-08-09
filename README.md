@@ -5,7 +5,6 @@ Accessibility of organ transplants?
 
 ## Story Summary 
 WEDNESDAY 
-Mention what UNOS stands for
 
 ## Sourcing 
 ### People
@@ -20,40 +19,41 @@ Mention what UNOS stands for
 
 ### Two Additional Sources
 * [US Organ Transplants, Categorized by Racial Group and Ethnicity](https://github.com/chlodowling/J124-Final-Dowling/blob/f0c9dd738012a4b7049db495049c6a7f330a6d18/National%20Data%20-%20Transplant%20by%20Race%20%26%20Ethnicity%20-%20OPTN.pdf)
-    * This dataset comes from an advanced search, of organ transplants in the US categorized by ethniciy, on [UNOS' database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#).
+    * This dataset comes from an advanced search, of organ transplants in the US categorized by ethniciy, on [the Organ Procurement & Transplant Network's (OPTN) database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#) .
     * This dataset provides national data on organ transplants categroized by ethicity and race and the information can be used to compare Hawaii's organ transplant data to national data. This contributes to the reporting by putting into perspective the accessibility of organ transplants in the rest of the country, in comparisson to Hawaii. 
     * The dataset has been added to the repository, visible above.
  
 * [US Kidney Transplants, Categoirized by Sate](https://github.com/chlodowling/J124-Final-Dowling/blob/f0c9dd738012a4b7049db495049c6a7f330a6d18/National%20Data%20-%20Kidney%20Transplants%20by%20State%20-%20OPTN.pdf)
-    * This dataset comes from an advanced search, of specifically kidney transplants in the US categorized by state, on [UNOS' database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#).
+    * This dataset comes from an advanced search, of specifically kidney transplants in the US categorized by state, on [OPTN's database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#).
     * If Milton Arellano, mentioned above, was interviewed for his story, this dataset would provide context as to how many kidney transplants occur in Hawaii versus California. This contribues to the reporting by looking at how the frequency of organ transplants vary by state. It is important to note that his additional dataset would _simply provide information on the frequency of kidney transplants, not conclusions that a patient is more likely to receive a kidney in one state over another_. Drawing that conclusion would disregard factors such as population size and the number organ ransplant sites.  
     * This dataset has been added to the repository, visible above. 
 
 ## Preparing For Data Analysis  
 
 1. ### Source Data
-    1. In this project, I analyzed “California Kindergarten Immunization Rates” sourced from the California Department of Public Health. My analysis focuses on kindergarten immunization statistics from 2000 to 2015.
-    2. 
+    1. The first step of my data analysis was to find data to analyze. In this project, I analyzed “Organ Transplants in Hawaii, Categorized by Ethnicity and Race” sourced from the United Network for Organ Sharing (UNOS). When looking for organ transplant data through UNOS, I was taken to an online database that is through the Organ Procurement and Transplant Network (OPTN). From [OPTN's database](https://optn.transplant.hrsa.gov/data/) I was able to conduct an advanced search to get a series of data tables highlighting organ tranplants in Hawaii per year, organ transplants in Hawaii per year categorized by race and ethicity, and national organ transplant data. 
+    2. Once I gathered the data from OPTN, I copied the data over to the "J124 Final: Organ Transplants Hawaii.csv" to analyze. I copied each dataset onto its own sheet, as seen in the .csv file. 
 
 2. ### Clean Data 
-    1. The first step of my analysis was to clean the data. After inspection, the data did not require much refining as it was mostly normalized. Because my scope of analysis did not require school names and this column of data exhibited significant inconsistencies, I created a new spreadsheet without it for my analysis. I also introduced five new variables: 1) pMMR, 2) pDTP, 3) pPolio, 4) pPBE, and 5) pPME. Details on column headers can be found here.
+    1. The second step of my analysis was to clean the data. After copying the data from OPTn to google sheets, the data did not require much refining as it was organized by OPTN. However, I did have to delete a blank column that appeared each time when copying the data over from OPTN to google sheets. I was able to refine my searches so specifically during the data sourcing process that the data cleaning process only consisted of formating the sourced data on the google sheet.  
 
 3. ### Ask Questions
-description
     1. Which racial or ethnic group in Hawaii received the most transplants in 2021? Is this proportional to Hawaii’s 2021 population demographics? 
     2. From 1988 to present, has the racial or ethnic group that receives the most transplants each year in Hawaii changed over time? If so, in what year(s) was it different than the group found in question #1?
     3. Which disease has led to the most transplants in Hawaii, from 1988-present?
     4. What is the breakdown of the most common diagnosis by racial or ethnic group in Hawaii, from 1988-present, that results in requiring an organ transplant? 
     5. Is there one disease that has impacted individuals from all 8 racial or ethnic groups in Hawaii, resulting in an organ transplant? Is this in line with the United State’s most common diagnosis that results in requiring an organ transplant?
+  
+*The five questions above will be used as the structure for the "Data Analysis" process documented below.*
 
    
-5. ### Define Key Assumptions
-* All questions were answered solely using the data set mentioned above.
-* Vaccination rate is defined as the percentage of students vaccinated for each respective vaccine type from the total number of students in the school type, county, or year specified in the question.
-* Exemption rate is defined as the percentage of students with an exemption (PBE or PME) from the total number of students in the school type, county, or year specified in the question.
+4. ### Define Key Assumptions
+* All questions were answered using the data set "J124 Final: Organ Transplants Hawaii.csv" mentioned above.
+* For the purpose of this study, organ transplant refers to all types of organ transplants as this study does _not_ categorize the organ transplant data into organ transplant type such as liver, heart, or lung transplant. 
+* For all five questions, the datasets referenced come from OTPN and one dataset comes from the US Census. 
 
 ## Data Analysis 
-_The following are five questions relevant to the dataset along with step-by-step answers to each of the questions:_ 
+_The following are the five questions provided above, each relating to the story pitch. Each question is accompanied by the step-by-step process it took to reach the data findings._ 
 
 ### Question 1: Which racial or ethnic group in Hawaii received the most transplants in 2021? Is this proportional to Hawaii’s 2021 population demographics? 
 1. First, I looked at the "HI Transplants/Ethnicity" sheet. 
