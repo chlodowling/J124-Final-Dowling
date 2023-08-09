@@ -18,7 +18,7 @@ WEDNESDAY
     * I discovered Arellano's kidney transplant story from [this Star Advertiser article](https://www.staradvertiser.com/2022/12/28/hawaii-news/former-chef-known-for-generosity-gets-a-life-changing-gift/) and found his contact information accordingly. 
 
 ### Two Additional Sources
-* [US Transplants broken down by racial group and ethnicity](/National data - OPTN.pdf)
+* [US Transplants broken down by racial group and ethnicity](https://github.com/chlodowling/J124-Final-Dowling/blob/2ac87d00a877bc7f5b21496789ab4e409efe91ae/National%20data%20-%20OPTN.pdf)
     * This dataset comes from an advanced search, of organ donations in the US categorized by ethniciy, on [UNOS' database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#).
     * This dataset provides national data on organ transplants categroized by ethicity and race and the information can be used to compare Hawaii's organ transplant data to national data. This contributes to the reporting by putting into perspective the accessibility of organ transplants in the rest of the country, in comparisson to Hawaii. 
     * The dataset has been added to the repository, visible above. 
