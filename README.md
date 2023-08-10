@@ -1,8 +1,15 @@
 # An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups
 ### By Chloe Dowling
 
-## Story Pitch Summary 
-WEDNESDAY 
+## Story Pitch Summary  
+Given the Hawaiian Islands location in the middle of the Pacific Ocean and its distance from the mainland United States, an analysis of accessibility to organ transplants in Hawaii presents an interesting analysis. With only [one transplant center in all of Hawaii, located on the island of Oahu](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/), organ transplant resources are limited. These identified trends led me to analyze how different racial/ethnic groups are impacted by different diagnoses causing organ transplants. As such, when race and transplant diagnoses are brought into the analysis, the accessibility of organ transplants in Hawaii is further questioned. 
+
+![Hawaii organ transplant center]()
+Transplant center located on Oahu
+
+“An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups” reveals organ transplant statistics in comparison to population demographics, racial/ethnic groups, diagnoses causing organ transplants, and national organ transplant data. While this analysis does not include an intensive look into systemic issues, such as financial and social barriers, limiting access to organ transplants in Hawaii, this analysis does present the groundwork for a thorough future study on organ transplant accessibility to be done. The data analysis outlined below aims to identify a few potential barriers and statistics surrounding how organ transplants affect racial and ethnic groups in Hawaii differently, whether that be because of race, ethnicity, or diagnosis. 
+
+From my analysis, I found that within the state of Hawaii different racial/ethnic groups have distinct leading diagnoses that require organ transplants. I also found that in comparison to national data, Hawaii has its own leading causes of organ transplants. After finding this data, by answering the list of detailed questions presented below, a future comparison could be done by looking at state and national data to understand how accessibility to organ transplants is impacted by geographical location and additional state-by-state demographics, such as race/ethnicity, average income, populations, age, gender, etc. 
 
 ## Sourcing 
 ### People
