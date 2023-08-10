@@ -61,12 +61,12 @@ _The following are the five questions provided above, each relating to the story
 1. First, I looked at the "HI Transplants/Ethnicity" sheet. 
 2. Then, I created a pivot table that summed up the total number of organ transplants for each racial or ethnic group in 2021. To create the pivot table I input the data from Column A (race/ethnicity) to be the data for the rows and sorted by SUM of 2021 in descending order. Next I input the values to be 2021, sumarized by SUM. To ensure I was only looking at necessary data, I filtered out both blank cells and "All ethnicities" as I only needed the individual breakdowns of each race/ethnicity.
 
-**IMAGE 1**
+![Q1_Image 1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q1_Image1.png)
 
 * From this pivot table, it is clear that of the 64 total organ transplants that occured in Hawaii in 2021, 35 of the transplant recipients were Asian, Non-Hispanic patients, making this the racial group that received the most transplants in 2021. 
 3. Then, to compare this to Hawaii's population demographics from 2021, I referred to the United States Sensus Bureau's 1-Year Estimate Detailed Table, derived from the 2021 American Community Survey. This table breaks down Hawaii's population demogrpahics for 2021. This data was imported into my google sheets workspace and is accessible under the "Hawaii US Census Data 2021" sheet and is also seen below. To analyze this data, I looked at row 6, "Asian alone," which that states in 2021 of the 1,441,553 people in Hawaii that year, 536,161 were Asian.
 
-**IMAGE 2**
+![Q1_Image 2](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q1_Image2.png)
 
 4. To see if the amount of organ transplants on Asian patients is proportional to Hawaii's percetage of Asians in the state in 2021, I compared the percentage of Asian transplant recipients in 2021 in Hawaii to Hawaii's percentage of Asian residents in 2021. To do this, I first found the percentage of organ transpalants on Asian patients in 2021, which is:
 * (35/64)(100) = **54.68% of organ transplants in Hawaii in 2021 were on Asian patients**
@@ -83,12 +83,15 @@ This means that in 2021, the percentage of Asian patients who received organ tra
 4. I then froze column 1 so I could always see the racial or ethnic group.
 5. I got this pivot table:
 
-**IMAGE 1-4**
+![Q2_Image 1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q2_Image%201.png)
+![Q2_Image 2](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q2_Image%202.png)
+![Q2_Image 3](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q2_Image%203.png)
+![Q2_Image 4](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q2_Image%204.png)
 
 6. I then compared each year's grand total, which displays the number of transplants from the racial or ethnic group with the most amount of transplants, to the number of "Asian, Non-Hispanic" transplants that occured the same year. As  "Asian, Non-Hispanic" is the racial group that received the most transplants in 2021, found in question 1, I simply looked at this group in comparisson to the total to see if the numbers were the same in both cells.
 7. After doing this, I was able to determine that the racial or ethnic group that has received he most transplants each year has stayed consistent for all but one year. In 1991, as seen in column E, the grand total did not match with the "Asian, Non-Hispanic" row. Thus the racial group that recevied the most amounnt of transplants in 1991 was "Pacific Islander, Non-Hispanic." In 1991, 13 Pacific Islander patients had an organ transplant, in Hawaii, in comparisson to the 11 Asian paients who had an organ transplant. From 1988 until the present, except for 1991, the racial group that recevied the most amounnt of transplants was "Asian, Non-Hispanic."
 
-**IMAGE 5**
+![Q2_Image 5](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q2_Image%205.png)
 
 As such, the data analysis for question 2 reveals that over time, Asian patients have received the most organ transplants each year in Hawaii, except in 1991 when 13 Pacific Islander patients had organ transplants and 10 Asian paients had organ transplants. Thus, the racial group that receives the most transplants each year in Hawaii _**has stayed consistent with Asian patients receiving the most in all but one year in 1991.**_
 
@@ -98,7 +101,7 @@ As such, the data analysis for question 2 reveals that over time, Asian patients
 3. After pasting the data, I deleted row 2 which contained the total number of organ transplants that have occured since 1988. I did this as I needed the individual organ transplant breakdowns as a result of each diagnosis, not all of the diagnoses combined. 
 4. I then selected colomn B and sorted the sheet from Z->A.
 
-**IMAGE 1**
+![Q3_Image1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q3_Image1.png)
 
 From this dataset above, it is apparent that since 1988, _**Glomerular Disease is the diagnosis that has led to the most organ transplants in Hawaii, causing 544 transplants.**_ Diabetes is the second most disase causing organ transplants. Non-Cholestatic Cirrhosis is the third most disease casuing organ transplants. 
 
@@ -109,7 +112,10 @@ From this dataset above, it is apparent that since 1988, _**Glomerular Disease i
 4. I then applied two filters to this pivot table, the first being to "Diagnosis" where I deselected "any blanks" and "All Diagnoses" as I needed the individual organ transplant breakdowns as a result of each diagnosis, not all of the diagnoses combined. The second filter was applied to "Race/Ethnicity" where I deselected "All Ethnicities" as I needed to look at the individual race/ethnicity breakdowns, not all of the races/etthnicties combined.
 5. I was then able to analyze this pivot table:
 
-**IMAGE 1-4** 
+![Q4_Image 1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q4_Image1.png)
+![Q4_Image 2](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q4_Image2.png)
+![Q4_Image 3](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q4_Image3.png)
+![Q4_Image 4](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q4_Image4.png)
 
 By looking at the pivot table, it is apparent that since 1988 the most common diagnosis, that results in an organ transplant, for each racial or ethnic group in Hawaii is:
 * **Asian, Non-Hispanic: Glomerular Disease** causing 323 organ transplants
@@ -128,18 +134,18 @@ By looking at the pivot table, it is apparent that since 1988 the most common di
 5. Then I applied two filters to this pivot table, the first being to "Diagnosis" where I deselected "any blanks" and "All Diagnoses" as I needed the individual organ transplant breakdowns as a result of each diagnosis, not all of the diagnoses combined. The second filter was applied to "Race/Ethnicity" where I deselected "All Ethnicities" as I needed to look at the individual race/ethnicity breakdowns, not all of the races/etthnicties combined.
 6. I was then able to analyze this pivot table:
 
-**IMAGE 1**
+![Q5_Image 1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q5_Image%201.png)
 
 From this pivot table, it is clear that **Non-Cholestatic Cirrhosis is the one diagnosis that has impacted individuals from all seven listed racial and ethnic groups in Hawaii, resulting in an organ transplant** as this diagnosis is infact mentioned 7 times on the "HI Transplant/Ethnicity/Diagnosis" datasheet.  
 
 7. Theh, to see if Non-Cholestatic Cirrhosis is this in line with the United State’s most common diagnosis that results in requiring an organ transplant, I conducteed an advanced search on the OPTN database to get national organ transplant data from 1988 to present categorizeed by race/ethnicity.
 8. Once I accessed the data from [OPTN's database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#) I then copied the dataset over to the .csv file listed above on a new sheet titled "US Transplants/Ethnicity/Diagnosis."
 9. Then I seelected Column C (national amount of organ transplants to date from 1988) and sorted sheet from "Z -> A."
-10. I then got this table:
+10. I then got this table (the table extends beyond column L, however the only columns we're looking at are columns B and C):
 
-**IMAGE 2**
+![Q5_Image 2](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q5_Image%202.png)
 
-11. From here I was able to see the leading diagnoses resulting the need of an organ transplant, nationally.
+11. From here I was able to see the leading diagnoses resulting in the need of an organ transplant, nationally.
 
 As such, it is clear that **Non-Cholestatic Cirrhosis is not in line with the United State’s most common diagnosis** that results in requiring an organ transplant as **the most common diagnosis that results in an organ transplant is Diabetes, which has caused the need for 159,114 organ transplants in the US since 1988 until the present.** Glomerular Disease is the second most leading diagnosis that results in an organ transplant, having resulted in 130,421 organ transplants in the US since 1988 until the present. Non-Cholestatic Cirrhosis however is the third most leading diagnosis that results in an organ transplant, having resulted in 116,282 organ transplants in the US since 1988 until the present.
 
