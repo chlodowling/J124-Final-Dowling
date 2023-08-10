@@ -8,9 +8,9 @@ Image below shows [transplant center located on Oahu](https://optn.transplant.hr
 
 ![Hawaii organ transplant center](https://github.com/chlodowling/J124-Final-Dowling/blob/4a9278c3431bc3495fd3c8159315154772d68d5a/Organ%20Transplant%20Center%20-%20Oahu.png)
 
-“An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups” reveals organ transplant statistics in comparison to population demographics, racial/ethnic groups, diagnoses causing organ transplants, and national organ transplant data. While this analysis does not include an intensive look into systemic issues, such as financial and social barriers, limiting access to organ transplants in Hawaii, this analysis does present the groundwork for a thorough future study on organ transplant accessibility to be done. The data analysis outlined below aims to identify a few potential barriers and statistics surrounding how organ transplants affect racial and ethnic groups in Hawaii differently, whether that be because of race, ethnicity, or diagnosis. 
+“An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups” reveals organ transplant statistics in comparison to population demographics, racial/ethnic groups, diagnoses causing organ transplants, and national organ transplant data. While this analysis does not include an intensive look into systemic issues, such as financial and social barriers, limiting access to organ transplants in Hawaii, this analysis does _present **the groundwork** for a thorough future study on organ transplant accessibility to be done._ The data analysis outlined below aims to identify how racial and ethnic groups receiving organt transplants in Hawaii are impacted differently, whether that be because of race, ethnicity, or diagnosis. 
 
-From my analysis, I found that within the state of Hawaii different racial/ethnic groups have distinct leading diagnoses that require organ transplants. I also found that in comparison to national data, Hawaii has its own leading causes of organ transplants. After finding this data, by answering the list of detailed questions presented below, a future comparison could be done by looking at state and national data to understand how accessibility to organ transplants is impacted by geographical location and additional state-by-state demographics, such as race/ethnicity, average income, populations, age, gender, etc. 
+From my analysis, I found that within the state of Hawaii different racial/ethnic groups have distinct leading diagnoses that require organ transplants. I also found that in comparison to national data, Hawaii has its own leading causes of organ transplants. After finding this data, by answering the list of detailed questions presented below, it is clear that a future comparison could be done to understand the accessibility of organ transplants on the basis of geographical location and additional state-by-state demographics, such as average income, populations, age, gender, etc.
 
 ## Sourcing 
 ### People
@@ -134,6 +134,11 @@ By looking at the pivot table, it is apparent that since 1988 the most common di
 * **Black: Glomerular Disease** causing 6 organ transplants
 * **American Indian/Alaska Native, Non-Hispanic: Glomerular Disease** causing 1 organ transplant
 
+#### Data Visualization 
+The following is a bar chart that represents each racial/ethnic group's most common diagnosis that results in organ transplants in Hawaii. [This chart](https://datawrapper.dwcdn.net/rqAdQ/5/) provides visual context for the data found above in question 4.
+
+![Data Visualization](https://github.com/chlodowling/J124-Final-Dowling/blob/58e25d27863a02d5d59054bca57b9ac3d7ac7e73/Data%20Visualization.png)
+
 ### Question 5: Is there one diagnosis that has impacted individuals from all seven listed racial and ethnic groups in Hawaii, resulting in an organ transplant? If so, is this in line with the United State’s most common diagnosis that results in requiring an organ transplant?
 1. To answer this question, I first referred to the "PT: Most Common Diagnosis by Race" pivot table I created in question 4. This pivot table has information on the diagnoses that have required patients in Hawaii to have organ transplants, categorized by racial and ethnic group. When analyzing this data, it was apparent that since 1988 there has only been one "American Indian/Alaska Native, Non-Hispanic" organ transplant patient in the state of Hawaii. From the pivot table, it is evident that Non-Cholestatic Cirrhosis is the diagnosis that resulted in the "American Indian/Alaska Native, Non-Hispanic" patients needing an organ transplant.
 2. After discovering this, I needed to confirm that there were patients diagnosed with Non-Cholestatic Cirrhosis from the other six racial and ethnic groups as well. As such, I referred back to the data on the "HI Transplant/Ethnicity/Diagnosis" sheet to make a pivot table, visible on the "PT: One Diagnosis, All Groups" sheet. With this pivot table, I needed to reveal how many times the Non-Cholestatic Cirrhosis diagnosis was mentioned on the dataset by using COUNTA. 
@@ -157,8 +162,3 @@ From this pivot table, it is clear that **Non-Cholestatic Cirrhosis is the one d
 11. From here I was able to see the leading diagnoses resulting in the need of an organ transplant, nationally.
 
 As such, it is clear that **Non-Cholestatic Cirrhosis is not in line with the United State’s most common diagnosis** that results in requiring an organ transplant as **the most common diagnosis that results in an organ transplant is Diabetes, which has caused the need for 159,114 organ transplants in the US since 1988 until the present.** Glomerular Disease is the second most leading diagnosis that results in an organ transplant, having resulted in 130,421 organ transplants in the US since 1988 until the present. Non-Cholestatic Cirrhosis however is the third most leading diagnosis that results in an organ transplant, having resulted in 116,282 organ transplants in the US since 1988 until the present.
-
-## Data Visualization 
-The following is a bar chart that represents each racial/ethnic group's most common diagnosis that results in organ transplants in Hawaii. [This chart](https://datawrapper.dwcdn.net/rqAdQ/5/) provides visual context for the answer to question 4.
-
-![Data Visualization](https://github.com/chlodowling/J124-Final-Dowling/blob/58e25d27863a02d5d59054bca57b9ac3d7ac7e73/Data%20Visualization.png)
