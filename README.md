@@ -29,7 +29,7 @@ From my analysis, I found that within the state of Hawaii different racial/ethni
     * This dataset provides national data on organ transplants categorized by ethnicity and race and the information can be used to compare Hawaii's organ transplant data to national data. This contributes to the reporting by putting into perspective the accessibility of organ transplants in the rest of the country, in comparison to Hawaii. 
     * The dataset has been added to the repository, visible above.
  
-* [US Kidney Transplants, Categoirized by Sate](https://github.com/chlodowling/J124-Final-Dowling/blob/f0c9dd738012a4b7049db495049c6a7f330a6d18/National%20Data%20-%20Kidney%20Transplants%20by%20State%20-%20OPTN.pdf)
+* [US Kidney Transplants, Categorized by State](https://github.com/chlodowling/J124-Final-Dowling/blob/f0c9dd738012a4b7049db495049c6a7f330a6d18/National%20Data%20-%20Kidney%20Transplants%20by%20State%20-%20OPTN.pdf)
     * This dataset comes from an advanced search, of specifically kidney transplants in the US categorized by state, on [OPTN's database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#).
     * If Milton Arellano, mentioned above, was interviewed for his story, this dataset would provide context as to how many kidney transplants occur in Hawaii versus California. This contributes to the reporting by looking at how the frequency of organ transplants vary by state. It is important to note that his additional dataset would _simply provide information on the frequency of kidney transplants, not conclusions that a patient is more likely to receive a kidney in one state over another_. Drawing that conclusion would disregard factors such as population size and the number of organ transplant sites.  
     * This dataset has been added to the repository, visible above. 
@@ -83,6 +83,8 @@ From this pivot table, it is clear that of the 64 total organ transplants that o
 * (536,161/1,441,553)(100) = **37.19% of Asian residents in Hawaii**
  
 This means that in 2021, **the percentage of Asian patients who received organ transplants in Hawaii in 2021 was _not proportional_ to the number of Asian residents in Hawaii in 2021** as the percentage of Asian organ donations is much larger than the percentage of Asian residents in Hawaii.
+
+This finding does not offer a comparison as to the number of Asians who receive an organ donation versus the number of Asians who actually require an organ donation. In a future study relating to the equity and accessibility of organ transplants in Hawaii, this could be taken into account.  
 
 ### Question 2: From 1988 to present, has the racial or ethnic group that receives the most transplants each year in Hawaii changed over time? If so, in what year(s) was it different than the group found in question #1?
 1. First, I created a pivot table, selecting "Race/Ethnicity" as the rows, sorting by "Race/Ethnicity" in ascending order. 
