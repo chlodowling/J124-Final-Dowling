@@ -135,7 +135,7 @@ By looking at the pivot table, it is apparent that since 1988 the most common di
 6. I then applied two filters to this pivot table, the first being to "Diagnosis" where I deselected everrything but Non-Cholestatic Cirrhosis. The second filter was applied to "Race/Ethnicity" where I deselected "All Ethnicities" as I needed to look at the individual race/ethnicity breakdowns, not all of the races/etthnicties combined.
 8. I was then able to analyze this pivot table:
 
-![Q5_Image 1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q5_Image%201.png)
+![Q5_Image 1](https://github.com/chlodowling/J124-Final-Dowling/blob/b3c6a69b3a02b43a85a20ee4fc87b4c6ea5458cd/J124-Screenshots/Q5_Image%201.png)
 
 From this pivot table, it is clear that **Non-Cholestatic Cirrhosis is the one diagnosis that has impacted individuals from all seven listed racial and ethnic groups in Hawaii, resulting in an organ transplant** as this diagnosis is infact mentioned 7 times on the "HI Transplant/Ethnicity/Diagnosis" datasheet.  
 
