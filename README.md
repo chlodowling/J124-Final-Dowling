@@ -2,7 +2,7 @@
 ### By Chloe Dowling
 
 ## Story Pitch Summary  
-Given the Hawaiian Islands location in the middle of the Pacific Ocean and its distance from the mainland United States, an analysis of accessibility to organ transplants in Hawaii presents an interesting analysis. With only one transplant center in all of Hawaii, located on the island of Oahu according to the [Organ Procurement & Transplant Network (OTPN)](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/), organ transplant resources are limited. These identified trends led me to analyze how different racial/ethnic groups are impacted by different diagnoses causing organ transplants. As such, when race and transplant diagnoses are brought into the analysis, the accessibility of organ transplants in Hawaii is further questioned. 
+Given the Hawaiian Islands location in the middle of the Pacific Ocean and its distance from the mainland United States, an analysis of accessibility to organ transplants in Hawaii presents an interesting analysis. With only one transplant center and one organ procurement organization in all of Hawaii, located on the island of Oahu according to the [Organ Procurement & Transplant Network (OTPN)](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/), organ transplant resources are limited. These identified trends led me to analyze how different racial/ethnic groups are impacted by different diagnoses causing organ transplants. As such, when race and transplant diagnoses are brought into the analysis, the accessibility of organ transplants in Hawaii is further questioned. 
 
 Image below shows [transplant center located on Oahu](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/):
 
