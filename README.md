@@ -137,9 +137,9 @@ By looking at the pivot table, it is apparent that since 1988 the most common di
 
 ![Q5_Image 1](https://github.com/chlodowling/J124-Final-Dowling/blob/b3c6a69b3a02b43a85a20ee4fc87b4c6ea5458cd/J124-Screenshots/Q5_Image%201.png)
 
-From this pivot table, it is clear that **Non-Cholestatic Cirrhosis is the one diagnosis that has impacted individuals from all seven listed racial and ethnic groups in Hawaii, resulting in an organ transplant** as this diagnosis is infact mentioned 7 times on the "HI Transplant/Ethnicity/Diagnosis" datasheet.  
+From this pivot table, it is clear that **Non-Cholestatic Cirrhosis is the one diagnosis that has impacted individuals from all seven listed racial and ethnic groups in Hawaii, resulting in an organ transplant** as it is the one disease listed under each racial/ethnic group.  
 
-7. Theh, to see if Non-Cholestatic Cirrhosis is this in line with the United State’s most common diagnosis that results in requiring an organ transplant, I conducteed an advanced search on the OPTN database to get national organ transplant data from 1988 to present categorizeed by race/ethnicity.
+7. Then, to see if Non-Cholestatic Cirrhosis is in line with the United State’s most common diagnosis that results in requiring an organ transplant, I conducteed an advanced search on the OPTN database to get national organ transplant data from 1988 to present, categorizeed by race/ethnicity.
 8. Once I accessed the data from [OPTN's database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#) I then copied the dataset over to the .csv file listed above on a new sheet titled "US Transplants/Ethnicity/Diagnosis."
 9. Then I seelected Column C (national amount of organ transplants to date from 1988) and sorted sheet from "Z -> A."
 10. I then got this table (the table extends beyond column L, however the only columns we're looking at are columns B and C):
