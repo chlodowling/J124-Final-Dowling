@@ -2,13 +2,13 @@
 ### By Chloe Dowling
 
 ## Story Pitch Summary  
-Given the Hawaiian Islands location in the middle of the Pacific Ocean and its distance from the mainland United States, an analysis of accessibility to organ transplants in Hawaii presents an interesting analysis. With only one transplant center and one organ procurement organization in all of Hawaii, located on the island of Oahu according to the [Organ Procurement & Transplant Network (OTPN)](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/), organ transplant resources are limited. These identified trends led me to analyze how different racial/ethnic groups are impacted by different diagnoses causing organ transplants. As such, when race and transplant diagnoses are brought into the analysis, the accessibility of organ transplants in Hawaii is further questioned. 
+Given the Hawaiian Islands location in the middle of the Pacific Ocean and its distance from the mainland United States, an analysis of accessibility to organ transplants in Hawaii presents an interesting analysis. With only one transplant center and one organ procurement organization in all of Hawaii, located on the island of Oahu according to the [Organ Procurement & Transplant Network (OTPN)](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/), organ transplant resources are limited. These identified trends led me to analyze how different racial/ethnic groups are impacted by different diagnoses resulting in organ transplants. As such, when race and transplant diagnoses are brought into the analysis, the accessibility of organ transplants in Hawaii is further questioned. 
 
 Image below shows [transplant center located on Oahu](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/):
 
 ![Hawaii organ transplant center](https://github.com/chlodowling/J124-Final-Dowling/blob/4a9278c3431bc3495fd3c8159315154772d68d5a/Organ%20Transplant%20Center%20-%20Oahu.png)
 
-“An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups” reveals organ transplant statistics in comparison to population demographics, racial/ethnic groups, diagnoses causing organ transplants, and national organ transplant data. While this analysis does not include an intensive look into systemic issues, such as financial and social barriers, limiting access to organ transplants in Hawaii, this analysis does _present **the groundwork** for a thorough future study on organ transplant accessibility to be done._ The data analysis outlined below aims to identify how racial and ethnic groups receiving organt transplants in Hawaii are impacted differently, whether that be because of race, ethnicity, or diagnosis. 
+“An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups” reveals organ transplant statistics in comparison to population demographics, racial/ethnic groups, diagnoses resulting in organ transplants, and national organ transplant data. While this analysis does not include an intensive look into systemic issues, such as financial and social barriers, limiting access to organ transplants in Hawaii, this analysis does _present **the groundwork** for a thorough future study on organ transplant accessibility to be done._ The data analysis outlined below aims to identify how racial and ethnic groups receiving organ transplants in Hawaii are impacted differently, whether that be because of race, ethnicity, or diagnosis. 
 
 From my analysis, I found that within the state of Hawaii different racial/ethnic groups have distinct leading diagnoses that require organ transplants. I also found that in comparison to national data, Hawaii has its own leading causes of organ transplants. After finding this data, by answering the list of detailed questions presented below, it is clear that a future comparison could be done to understand the accessibility of organ transplants on the basis of geographical location and additional state-by-state demographics, such as average income, populations, age, gender, etc.
 
@@ -111,7 +111,7 @@ As such, the data analysis for question 2 reveals that over time, Asian patients
 
 ![Q3_Image1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q3_Image1.png)
 
-From this dataset above, it is apparent that since 1988, _**Glomerular Disease is the diagnosis that has led to the most organ transplants in Hawaii, causing 544 transplants.**_ Diabetes is the second most diagnosis, causing 408 organ transplants. Non-Cholestatic Cirrhosis is the third most diagnosis, causing 250 organ transplants. 
+From this dataset above, it is apparent that since 1988, _**Glomerular Disease is the diagnosis that has led to the most organ transplants in Hawaii, resulting in 544 transplants.**_ Diabetes is the second most diagnosis, resulting in 408 organ transplants. Non-Cholestatic Cirrhosis is the third most diagnosis, resulting in 250 organ transplants. 
 
 #### Data Visualization:
 The chart below is a visual representation of the data found above. [This chart](https://datawrapper.dwcdn.net/HE0Vc/1/) was made using the data on the "Diagnosis --> Most Transplants" sheet of the .csv file. 
@@ -130,13 +130,13 @@ The chart below is a visual representation of the data found above. [This chart]
 ![Q4_Image 4](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q4_Image4.png)
 
 By looking at the pivot table, it is apparent that since 1988 the most common diagnosis, that results in an organ transplant, for each racial or ethnic group in Hawaii is:
-* **Asian, Non-Hispanic: Glomerular Disease** causing 323 organ transplants
-* **Pacific Islander, Non-Hispanic: Glomerular Disease** causing 127 organ transplants
-* **White, Non-Hispanic: Non-Cholestatic Cirrhosis** causing 84 organ transplants
-* **Multiracial, Non-Hispanic: Diabetes** causing 58 organ transplants
-* **Hispanic/Latino: Glomerular Disease** causing 21 organ transplants
-* **Black: Glomerular Disease** causing 6 organ transplants
-* **American Indian/Alaska Native, Non-Hispanic: Glomerular Disease** causing 1 organ transplant
+* **Asian, Non-Hispanic: Glomerular Disease** resulting in 323 organ transplants
+* **Pacific Islander, Non-Hispanic: Glomerular Disease** resulting in 127 organ transplants
+* **White, Non-Hispanic: Non-Cholestatic Cirrhosis** resulting in 84 organ transplants
+* **Multiracial, Non-Hispanic: Diabetes** resulting in 58 organ transplants
+* **Hispanic/Latino: Glomerular Disease** resulting in 21 organ transplants
+* **Black: Glomerular Disease** resulting in 6 organ transplants
+* **American Indian/Alaska Native, Non-Hispanic: Glomerular Disease** resulting in 1 organ transplant
 
 #### Data Visualization: 
 The following is a bar chart that represents each racial/ethnic group's most common diagnosis that results in organ transplants in Hawaii. [This chart](https://datawrapper.dwcdn.net/rqAdQ/5/) provides visual context for the data found above in question 4.
