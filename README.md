@@ -4,9 +4,9 @@
 ## Story Pitch Summary  
 Given the Hawaiian Islands location in the middle of the Pacific Ocean and its distance from the mainland United States, an analysis of accessibility to organ transplants in Hawaii presents an interesting analysis. With only one transplant center in all of Hawaii, located on the island of Oahu according to the [Organ Procurement & Transplant Network (OTPN)](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/), organ transplant resources are limited. These identified trends led me to analyze how different racial/ethnic groups are impacted by different diagnoses causing organ transplants. As such, when race and transplant diagnoses are brought into the analysis, the accessibility of organ transplants in Hawaii is further questioned. 
 
-![Hawaii organ transplant center](https://github.com/chlodowling/J124-Final-Dowling/blob/4a9278c3431bc3495fd3c8159315154772d68d5a/Organ%20Transplant%20Center%20-%20Oahu.png)
+Image below shows [transplant center located on Oahu](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/):
 
-[Transplant center located on Oahu](https://optn.transplant.hrsa.gov/data/view-data-reports/state-data/)
+![Hawaii organ transplant center](https://github.com/chlodowling/J124-Final-Dowling/blob/4a9278c3431bc3495fd3c8159315154772d68d5a/Organ%20Transplant%20Center%20-%20Oahu.png)
 
 “An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups” reveals organ transplant statistics in comparison to population demographics, racial/ethnic groups, diagnoses causing organ transplants, and national organ transplant data. While this analysis does not include an intensive look into systemic issues, such as financial and social barriers, limiting access to organ transplants in Hawaii, this analysis does present the groundwork for a thorough future study on organ transplant accessibility to be done. The data analysis outlined below aims to identify a few potential barriers and statistics surrounding how organ transplants affect racial and ethnic groups in Hawaii differently, whether that be because of race, ethnicity, or diagnosis. 
 
