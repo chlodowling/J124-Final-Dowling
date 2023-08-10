@@ -82,9 +82,7 @@ From this pivot table, it is clear that of the 64 total organ transplants that o
 5. Then I found the percentage of Asian residents in Hawaii in 2021, which is:
 * (536,161/1,441,553)(100) = **37.19% of Asian residents in Hawaii**
  
-This means that in 2021, **the percentage of Asian patients who received organ transplants in Hawaii in 2021 was _not proportional_ to the number of Asian residents in Hawaii in 2021** as the percentage of Asian organ donations is much larger than the percentage of Asian residents in Hawaii.
-
-This finding does not offer a comparison as to the number of Asians who receive an organ donation versus the number of Asians who actually require an organ donation. In a future study relating to the equity and accessibility of organ transplants in Hawaii, this could be taken into account.  
+This means that in 2021, **the percentage of Asian patients who received organ transplants in Hawaii in 2021 was _not proportional_ to the number of Asian residents in Hawaii in 2021** as the percentage of Asian organ donations is much larger than the percentage of Asian residents in Hawaii. It should be noted however, that this finding does not offer a comparison as to the number of Asians who receive an organ donation versus the number of Asians who actually require an organ donation. In a future study relating to the equity and accessibility of organ transplants in Hawaii, this could be taken into account.  
 
 ### Question 2: From 1988 to present, has the racial or ethnic group that receives the most transplants each year in Hawaii changed over time? If so, in what year(s) was it different than the group found in question #1?
 1. First, I created a pivot table, selecting "Race/Ethnicity" as the rows, sorting by "Race/Ethnicity" in ascending order. 
