@@ -151,6 +151,6 @@ From this pivot table, it is clear that **Non-Cholestatic Cirrhosis is the one d
 As such, it is clear that **Non-Cholestatic Cirrhosis is not in line with the United State’s most common diagnosis** that results in requiring an organ transplant as **the most common diagnosis that results in an organ transplant is Diabetes, which has caused the need for 159,114 organ transplants in the US since 1988 until the present.** Glomerular Disease is the second most leading diagnosis that results in an organ transplant, having resulted in 130,421 organ transplants in the US since 1988 until the present. Non-Cholestatic Cirrhosis however is the third most leading diagnosis that results in an organ transplant, having resulted in 116,282 organ transplants in the US since 1988 until the present.
 
 ## Data Visualization 
-The following is a [bar chart](https://datawrapper.dwcdn.net/rqAdQ/5/) that represents each racial/ethnic group's most common diagnosis that results in organ transplants in Hawaii. This chart provides visual context for the answer to question 4.
+The following is a bar chart that represents each racial/ethnic group's most common diagnosis that results in organ transplants in Hawaii. [This chart](https://datawrapper.dwcdn.net/rqAdQ/5/) provides visual context for the answer to question 4.
 
-![Data Visualization](https://githu)
+![Data Visualization](https://github.com/chlodowling/J124-Final-Dowling/blob/8be40d0669cfd40f3bf4dc7070ff20070c0712b1/Data%20Visualization.png)
