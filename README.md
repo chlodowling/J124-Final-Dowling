@@ -1,8 +1,7 @@
 # An Analysis of Organ Transplants in Hawaii by Racial and Ethnic Groups
 ### By Chloe Dowling
-Accessibility of organ transplants?
 
-## Story Summary 
+## Story Pitch Summary 
 WEDNESDAY 
 
 ## Sourcing 
@@ -63,7 +62,8 @@ _The following are the five questions provided above, each relating to the story
 
 ![Q1_Image 1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q1_Image1.png)
 
-* From this pivot table, it is clear that of the 64 total organ transplants that occured in Hawaii in 2021, 35 of the transplant recipients were Asian, Non-Hispanic patients, making this the racial group that received the most transplants in 2021. 
+From this pivot table, it is clear that of the 64 total organ transplants that occured in Hawaii in 2021, **35 of the transplant recipients were Asian, Non-Hispanic patients, making this the racial group that received the most transplants in 2021.** 
+
 3. Then, to compare this to Hawaii's population demographics from 2021, I referred to the United States Sensus Bureau's 1-Year Estimate Detailed Table, derived from the 2021 American Community Survey. This table breaks down Hawaii's population demogrpahics for 2021. This data was imported into my google sheets workspace and is accessible under the "Hawaii US Census Data 2021" sheet and is also seen below. To analyze this data, I looked at row 6, "Asian alone," which that states in 2021 of the 1,441,553 people in Hawaii that year, 536,161 were Asian.
 
 ![Q1_Image 2](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q1_Image2.png)
@@ -74,7 +74,7 @@ _The following are the five questions provided above, each relating to the story
 5. Then I found the percentage of Asian residents in Hawaii in 2021, which is:
 * (536,161/1,441,553)(100) = **37.19% of Asian residents in Hawaii**
  
-This means that in 2021, the percentage of Asian patients who received organ transplants in Hawaii in 2021 was _**not proportional**_ to the number of Asian residents in Hawaii in 2021 as the percentage of Asian organ donations is much larger than the percentage of Asian residents in Hawaii.
+This means that in 2021, **the percentage of Asian patients who received organ transplants in Hawaii in 2021 was _not proportional_ to the number of Asian residents in Hawaii in 2021** as the percentage of Asian organ donations is much larger than the percentage of Asian residents in Hawaii.
 
 ### Question 2: From 1988 to present, has the racial or ethnic group that receives the most transplants each year in Hawaii changed over time? If so, in what year(s) was it different than the group found in question #1?
 1. First, I created a pivot table, selecting "Race/Ethnicity" as the rows, sorting by "Race/Ethnicity" in ascending order. 
@@ -149,6 +149,5 @@ From this pivot table, it is clear that **Non-Cholestatic Cirrhosis is the one d
 
 As such, it is clear that **Non-Cholestatic Cirrhosis is not in line with the United State’s most common diagnosis** that results in requiring an organ transplant as **the most common diagnosis that results in an organ transplant is Diabetes, which has caused the need for 159,114 organ transplants in the US since 1988 until the present.** Glomerular Disease is the second most leading diagnosis that results in an organ transplant, having resulted in 130,421 organ transplants in the US since 1988 until the present. Non-Cholestatic Cirrhosis however is the third most leading diagnosis that results in an organ transplant, having resulted in 116,282 organ transplants in the US since 1988 until the present.
 
-## Data Visualizations 
-1. Bar chart, Line chart, Scatterplot, Area chart,  Choropleth map
-2. WEDNESDAY
+## Data Visualization 
+1. Bar chart
