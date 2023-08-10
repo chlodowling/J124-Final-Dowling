@@ -111,7 +111,11 @@ As such, the data analysis for question 2 reveals that over time, Asian patients
 
 ![Q3_Image1](https://github.com/chlodowling/J124-Final-Dowling/blob/994a6e1fd22273b9552c6467243d2d89708497b9/J124-Screenshots/Q3_Image1.png)
 
-From this dataset above, it is apparent that since 1988, _**Glomerular Disease is the diagnosis that has led to the most organ transplants in Hawaii, causing 544 transplants.**_ Diabetes is the second most disease causing organ transplants. Non-Cholestatic Cirrhosis is the third most disease causing organ transplants. 
+From this dataset above, it is apparent that since 1988, _**Glomerular Disease is the diagnosis that has led to the most organ transplants in Hawaii, causing 544 transplants.**_ Diabetes is the second most diagnosis, causing 408 organ transplants. Non-Cholestatic Cirrhosis is the third most diagnosis, causing 250 organ transplants. 
+
+#### Data Visualization:
+The chart below is a visual representation of the data found above. [This chart](https://datawrapper.dwcdn.net/HE0Vc/1/) was made using the data on the "Diagnosis --> Most Transplants" sheet of the .csv file. 
+![Organ Transplant by Diagnosis Data Visualization](https://github.com/chlodowling/J124-Final-Dowling/blob/56f89fb4ffb4ec767f470da845b04737574277e1/Data%20Visualization%20(%23%20of%20Organ%20Transplants%20by%20Diagnosis).png)
 
 ### Question 4: Since 1988, what has been the most common diagnosis that results in an organ transplant, for each racial or ethnic group in Hawaii? 
 1. I created a pivot table, seen on the "PT: Most Common Diagnosis by Race" sheet, in order to answer this question. To create the table, I used the data on the "HI Transplant/Ethnicity/Diagnosis" sheet. 
@@ -134,7 +138,7 @@ By looking at the pivot table, it is apparent that since 1988 the most common di
 * **Black: Glomerular Disease** causing 6 organ transplants
 * **American Indian/Alaska Native, Non-Hispanic: Glomerular Disease** causing 1 organ transplant
 
-#### Data Visualization 
+#### Data Visualization: 
 The following is a bar chart that represents each racial/ethnic group's most common diagnosis that results in organ transplants in Hawaii. [This chart](https://datawrapper.dwcdn.net/rqAdQ/5/) provides visual context for the data found above in question 4.
 
 ![Data Visualization](https://github.com/chlodowling/J124-Final-Dowling/blob/58e25d27863a02d5d59054bca57b9ac3d7ac7e73/Data%20Visualization.png)
