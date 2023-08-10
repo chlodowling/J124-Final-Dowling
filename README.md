@@ -161,4 +161,4 @@ As such, it is clear that **Non-Cholestatic Cirrhosis is not in line with the Un
 ## Data Visualization 
 The following is a bar chart that represents each racial/ethnic group's most common diagnosis that results in organ transplants in Hawaii. [This chart](https://datawrapper.dwcdn.net/rqAdQ/5/) provides visual context for the answer to question 4.
 
-![Data Visualization](https://github.com/chlodowling/J124-Final-Dowling/blob/8be40d0669cfd40f3bf4dc7070ff20070c0712b1/Data%20Visualization.png)
+![Data Visualization]
