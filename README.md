@@ -103,8 +103,11 @@ As such, the data analysis for question 2 reveals that over time, Asian patients
 From this dataset above, it is apparent that since 1988, _**Glomerular Disease is the diagnosis that has led to the most organ transplants in Hawaii, causing 544 transplants.**_ Diabetes is the second most disase causing organ transplants. Non-Cholestatic Cirrhosis is the third most disease casuing organ transplants. 
 
 ### Question 4: Since 1988, what has been the most common diagnosis, that results in an organ transplant, for each racial or ethnic group in Hawaii? 
-1. I created a pivot table, seen on the "Most Common Diagnosis by Race" sheet, in orrder to answer this question. To create the table, I used the data on the "HI Transplant/Ethnicity/Diagnosis" sheet. 
-2. For the rows of the pivot table, I input "Race/Ethnicity" and "Diagnosis," both sorted by "MAX of To Date" in descending order. For the vlaues, I input "To Date" as this column represents the total number of organ transplants in Hawaii since 1988 until 2023. The "To Date" values are summarized by "MAX." I applied two filters to this pivot table, the first being to "Diagnosis" where I deselected "any blanks" and "All Diagnoses" as I needed the individual organ transplant breakdowns as a result of each diagnosis, not all of the diagnoses combined. The second filter was applied to "Race/Ethnicity" where I deselected "All Ethnicities" as I needed to look at the individual race/ethnicity breakdowns, not all of the races/etthnicties combined. I was then able to analyze this pivot table:
+1. I created a pivot table, seen on the "PT: Most Common Diagnosis by Race" sheet, in order to answer this question. To create the table, I used the data on the "HI Transplant/Ethnicity/Diagnosis" sheet. 
+2. For the rows of the pivot table, I input "Race/Ethnicity" and "Diagnosis," both sorted by "MAX of To Date" in descending order.
+3. For the vlaues, I input "To Date" as this column represents the total number of organ transplants in Hawaii since 1988 until 2023. The "To Date" values are summarized by "MAX."
+4. I then applied two filters to this pivot table, the first being to "Diagnosis" where I deselected "any blanks" and "All Diagnoses" as I needed the individual organ transplant breakdowns as a result of each diagnosis, not all of the diagnoses combined. The second filter was applied to "Race/Ethnicity" where I deselected "All Ethnicities" as I needed to look at the individual race/ethnicity breakdowns, not all of the races/etthnicties combined.
+5. I was then able to analyze this pivot table:
 
 **IMAGE 1-4** 
 
@@ -117,8 +120,28 @@ By looking at the pivot table, it is apparent that since 1988 the most common di
 * **Black: Glomerular Disease** causing 6 organ transplants
 * **American Indian/Alaska Native, Non-Hispanic: Glomerular Disease** causing 1 organ transplant
 
-### Question 5: Is there one disease that has impacted individuals from all seven listed racial or ethnic groups in Hawaii, resulting in an organ transplant? If so, is this in line with the United State’s most common diagnosis that results in requiring an organ transplant?
-1. WEDNESDAY
+### Question 5: Is there one diagnosis that has impacted individuals from all seven listed racial and ethnic groups in Hawaii, resulting in an organ transplant? If so, is this in line with the United State’s most common diagnosis that results in requiring an organ transplant?
+1. To answer this question, I first referred to the "PT: Most Common Diagnosis by Race" pivot table I created in question 4. This pivot table has information on the diagnoses that have required patients in Hawaii to have organ transplants, categorized by racial and ethnic group. When analyzing this data, it was apparent that since 1988 there has only been one "American Indian/Alaska Native, Non-Hispanic" organ transplant patient in the state of Hawaii. From the pivot table, it is evident that Non-Cholestatic Cirrhosis is the diagnosis that resulted in the "American Indian/Alaska Native, Non-Hispanic" patients need for an organ transplant.
+2. After discovering this, I needed to confirm that there were patients diagnosed wih Non-Cholestatic Cirrhosis from the other six racial and ethnic groups as well. As such, I referrred back to the data on the "HI Transplant/Ethnicity/Diagnosis" sheet to make a pivot table, visibile on the "PT: One Diagnosis, All Groups" sheet. With this pivot table, I needed to reveal how many times the Non-Cholestatic Cirrhosis diagnosis was mentioned on the dataset by using COUNTUNIQUE. If there was a diganosis that has impacted individuals from all seven listed racial and ethnic groups in Hawaii, resulting in an organ transplant, then we would see it appear on the sheet 7 times. 
+3. As such, for the first step of creating the pivot table I input Diagnosis as the rows, sorrted by COUNTUNIQUE in descending order.
+4. I then input Race/Ethnicites the values, summarized by COUNTUNIQUE.
+5. Then I applied two filters to this pivot table, the first being to "Diagnosis" where I deselected "any blanks" and "All Diagnoses" as I needed the individual organ transplant breakdowns as a result of each diagnosis, not all of the diagnoses combined. The second filter was applied to "Race/Ethnicity" where I deselected "All Ethnicities" as I needed to look at the individual race/ethnicity breakdowns, not all of the races/etthnicties combined.
+6. I was then able to analyze this pivot table:
+
+**IMAGE 1**
+
+From this pivot table, it is clear that **Non-Cholestatic Cirrhosis is the one diagnosis that has impacted individuals from all seven listed racial and ethnic groups in Hawaii, resulting in an organ transplant** as this diagnosis is infact mentioned 7 times on the "HI Transplant/Ethnicity/Diagnosis" datasheet.  
+
+7. Theh, to see if Non-Cholestatic Cirrhosis is this in line with the United State’s most common diagnosis that results in requiring an organ transplant, I conducteed an advanced search on the OPTN database to get national organ transplant data from 1988 to present categorizeed by race/ethnicity.
+8. Once I accessed the data from [OPTN's database](https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#) I then copied the dataset over to the .csv file listed above on a new sheet titled "US Transplants/Ethnicity/Diagnosis."
+9. Then I seelected Column C (national amount of organ transplants to date from 1988) and sorted sheet from "Z -> A."
+10. I then got this table:
+
+**IMAGE 2**
+
+11. From here I was able to see the leading diagnoses resulting the need of an organ transplant, nationally.
+
+As such, it is clear that **Non-Cholestatic Cirrhosis is not in line with the United State’s most common diagnosis** that results in requiring an organ transplant as **the most common diagnosis that results in an organ transplant is Diabetes, which has caused the need for 159,114 organ transplants in the US since 1988 until the present.** Glomerular Disease is the second most leading diagnosis that results in an organ transplant, having resulted in 130,421 organ transplants in the US since 1988 until the present. Non-Cholestatic Cirrhosis however is the third most leading diagnosis that results in an organ transplant, having resulted in 116,282 organ transplants in the US since 1988 until the present.
 
 ## Data Visualizations 
 1. Bar chart, Line chart, Scatterplot, Area chart,  Choropleth map
